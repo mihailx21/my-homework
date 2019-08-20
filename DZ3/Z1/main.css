@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.w500 {
+    width: 500px;
+}
+.h500 {
+    height: 500px;
+}
+.container {
+    display: flex;
+}
+.directionflex {
+    flex-direction: column;
+}
+.flex-1 {
+    flex:1;
+}
+.flex-2 {
+    flex:2;
+}
+.flex-3 {
+    flex:3;
+}
+.bg-green {
+    background-color:green;
+}
+.bg-red {
+    background-color:red;
+}
+.bg-purple {
+    background-color:purple;
+}
+.bg-blue {
+    background-color:blue;
+}
+.bg-orange {
+    background-color:orange;
+}
+.bg-cyan {
+    background-color:cyan;
+}
+.bg-gray {
+    background-color:gray;
+}
+.mt {
+    margin-top: 1rem;
+}
+.ml {
+    margin-left: 1rem;
+}

@@ -1,0 +1,19 @@
+1. C+Tab внутри пишем коммент
+2. p>lorem10
+3. div[data-test=test]
+4. nav>ul>(li>a[href=#]>lorem1)*10
+5. div[class=container]>hdr+nav+art+sect+ftr
+6. Скрин валидатора
+
+8. str>lorem1 ну или Lorem, ipsum dolor sit amet <b>consectetur</b> adipisicing <i>elit.</i> Earum, harum.
+9. &copy;
+10. p>a[href=https://www.google.com/]>{google here}
+11. p>a[href=https://www.google.com/ title="Go to the Google"]>{google here}
+12. p>a[href=Mishka.txt]>{Dokyment Mihaila}
+13.   p>a[name=Verh]
+  p>lorem2000
+  p>a[href=#Verh]>{V Verh}
+14. p>a[href="Mihail/mishka1.html"]>{To lvl down file}
+15. p>a[href="../mishka2.html"]>{To lvl up file}
+16. В первом файле: p>a[href=z16.html]>{To next page}
+    Во втором файле:   p>a[href=Zadaniya.html]>{Back}

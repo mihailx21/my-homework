@@ -1,0 +1,15 @@
+body{
+    text-indent: 1.3em;
+}
+p.str1:before {
+    content:'\2660';
+}
+p.str2:before {
+    content:'\2663';
+}
+p.str3:before {
+    content:'\2666';
+}
+p.str4:before {
+    content:'\2665';
+}

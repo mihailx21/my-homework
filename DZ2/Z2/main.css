@@ -1,0 +1,7 @@
+button {
+    border-radius: 10px;
+    border: 2px double white;
+    background: linear-gradient(to bottom, rgb(255, 162, 177) 0%,rgb(255, 202, 214) 50%, rgb(255, 162, 177) 100%);
+    box-shadow: 0 0 2px rgba(99, 98, 98, 0.5);
+    
+}

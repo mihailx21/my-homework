@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.w800 {
+    width: 800px;
+}
+.h450 {
+    height: 450px;
+}
+.container {
+    display: flex;
+
+}
+.red {
+    background-color: red;
+    border-radius: 10px;
+}
+.blue {
+    background-color: blue;
+    border-radius: 10px;
+}
+.green {
+    background-color: green;
+    border-radius: 10px;
+}
+.orange {
+    background-color: orange;
+    border-radius: 10px;
+}
+.white {
+    background-color: #fff;
+}
+.flex-1 {
+    flex: 1;
+}
+.flex-2 {
+    flex: 2;
+}
+.flex-3 {
+    flex: 3;
+}
+.displayflex {
+    flex-direction: column;
+}
+.mt{
+    margin-top: 0.5rem;
+}
+.ml {
+    margin-left: 0.5rem;
+}
+.mr {
+    margin-right: 0.5rem;
+}
+.mb {
+    margin-bottom: 0.5rem;
+}
